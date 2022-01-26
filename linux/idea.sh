@@ -7,4 +7,4 @@ rm -rf ~/.config/JetBrains
 rm -rf ~/.cache/JetBrains*
 rm -rf ~/cache/evolution*
 
-echo 'done ~'
+echo 'done 
