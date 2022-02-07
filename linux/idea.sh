@@ -5,6 +5,6 @@ rm -rf ~/.java/.userPrefs/*.xml
 rm -rf ~/.local/share/*
 rm -rf ~/.config/JetBrains
 rm -rf ~/.cache/JetBrains*
-rm -rf ~/cache/evolution*
+rm -rf ~/.cache/evolution*
 
-echo 'done 
+echo 'done' 
